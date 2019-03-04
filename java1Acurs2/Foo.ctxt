@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Foo
+comment1.params=a\ b
+comment1.target=int\ suma(int,\ int)
+comment2.params=a\ b
+comment2.target=float\ suma(float,\ float)
+comment3.params=x
+comment3.target=void\ transferCopie(int)
+comment4.params=p
+comment4.target=void\ transferReferinta(Pisica)
+numComments=5
