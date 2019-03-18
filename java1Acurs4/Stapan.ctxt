@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Stapan
+comment1.params=nume\ animal
+comment1.target=Stapan(java.lang.String,\ Animal)
+comment2.params=
+comment2.target=Animal\ getAnimal()
+comment3.params=
+comment3.target=java.lang.String\ getNume()
+comment4.params=
+comment4.target=boolean\ isPisica()
+numComments=5
