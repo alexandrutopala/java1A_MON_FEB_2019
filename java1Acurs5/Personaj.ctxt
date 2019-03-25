@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Personaj
+comment1.params=
+comment1.target=void\ actioneaza()
+comment1.text=nu\ merg\:\ private,\ final\ sau\ static
+comment2.params=
+comment2.target=boolean\ isGood()
+numComments=3
