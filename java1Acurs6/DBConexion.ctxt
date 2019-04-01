@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DBConexion
+comment1.params=
+comment1.target=DBConexion()
+comment2.params=
+comment2.target=void\ close()
+numComments=3
