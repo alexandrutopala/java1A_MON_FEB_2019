@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=NumberKeeper
+comment1.params=
+comment1.target=NumberKeeper()
+comment2.params=
+comment2.target=NumberKeeper\ getInstance()
+comment3.params=
+comment3.target=void\ generate()
+comment4.params=value
+comment4.target=boolean\ isGreaterThan(int)
+comment5.params=value
+comment5.target=boolean\ isLessThan(int)
+comment6.params=
+comment6.target=boolean\ isEven()
+comment7.params=value
+comment7.target=boolean\ isEqual(int)
+numComments=8
